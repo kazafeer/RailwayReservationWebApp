@@ -5,7 +5,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
 </head>
 <body>
-<form class="form-inline" method="POST" action="/confirmation">
+<form class="form-inline" method="POST" >
     <div class="form-group">
         <label for="date">Date</label>
         <input type="date"
